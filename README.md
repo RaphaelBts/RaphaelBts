@@ -11,8 +11,8 @@
     <a href="https://github.com/RaphaelBts/clear-fashion">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaphaelBts&repo=clear-fashion" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/RaphaelBts/MovieSearch">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaphaelBts&repo=MovieSearch" alt="GitHub Stats" />
+    <a href="https://github.com/RaphaelBts/Find-Films-Screenings">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaphaelBts&repo=Find-Films-Screenings" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/YoanGab/sorare_alert_library">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoanGab&repo=sorare_alert_library" alt="GitHub Stats" />
