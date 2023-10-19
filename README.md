@@ -3,7 +3,7 @@
 ## 😄 About me
 - 🌱 I obtained my Master's degree in Data Science and AI at ESILV in 2022 and pursued a Data Science and Cybersecurity Certificate at UCLA Extension until June 2023. 
 - 🤔 Feel free to contact me, I'll be glad to talk with you !
-- 💬 I'm looking for an internship as a Data Engineer or Cloud Engineer for 6 months beginning in September 2023.
+- 💬 I'm looking for an internship as a Data Scientist or Data Engineer for 6 months ASAP.
 
 <h2>📌My GitHub repositories</h2>
 <div>
