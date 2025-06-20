@@ -2,8 +2,7 @@
 
 ## 😄 About me
 - 🌱 I obtained my Master's degree in Data Science and AI at ESILV in 2022 and pursued a Data Science and Cybersecurity Certificate at UCLA Extension until June 2023. 
-- 🤔 Feel free to contact me, I'll be glad to talk with you !
-- 💬 I'm building my next big project which should be realised in 2024 !
+- 💬 I'm building my next big project which should be released in 2025
 
 <h2>📌My GitHub repositories</h2>
 <div>
