@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raphael Brethes</h1>
+<h1 align="center">Hi 👋, I'm Raph </h1>
 
 ## 😄 About me
 - 🌱 I obtained my Master's degree in Data Science and AI at ESILV in 2022 and pursued a Data Science and Cybersecurity Certificate at UCLA Extension until June 2023. 
